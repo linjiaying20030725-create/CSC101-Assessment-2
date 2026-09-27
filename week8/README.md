@@ -1,1 +1,1 @@
-Week 8 assignment files.
+CSC101 Week 8 My Data Story assignment files.
